@@ -1,0 +1,5 @@
+pyside6
+librosa==0.10.2
+libsndfile
+soundfile
+numpy<2.0.0

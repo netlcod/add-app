@@ -1,0 +1,408 @@
+{
+  "Name": "array67",
+  "Sample rate": 16000,
+  "Array": {
+    "0": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 1,
+      "pos": [-0.2500, -0.0875, 0.0000]
+    },
+    "1": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 2,
+      "pos": [-0.2000, -0.0875, 0.0000]
+    },
+    "2": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 3,
+      "pos": [-0.1500, -0.0875, 0.0000]
+    },
+    "3": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 4,
+      "pos": [-0.1000, -0.0875, 0.0000]
+    },
+    "4": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 5,
+      "pos": [-0.0500, -0.0875, 0.0000]
+    },
+    "5": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 6,
+      "pos": [0.0000, -0.0875, 0.0000]
+    },
+    "6": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 7,
+      "pos": [0.0500, -0.0875, 0.0000]
+    },
+    "7": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 8,
+      "pos": [0.1000, -0.0875, 0.0000]
+    },
+    "8": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 9,
+      "pos": [0.1500, -0.0875, 0.0000]
+    },
+    "9": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 10,
+      "pos": [0.2000, -0.0875, 0.0000]
+    },
+    "10": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 11,
+      "pos": [0.2500, -0.0875, 0.0000]
+    },
+    "11": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 12,
+      "pos": [-0.2500, -0.1225, 0.0000]
+    },
+    "12": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 13,
+      "pos": [-0.2000, -0.1225, 0.0000]
+    },
+    "13": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 14,
+      "pos": [-0.1500, -0.1225, 0.0000]
+    },
+    "14": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 15,
+      "pos": [-0.1000, -0.1225, 0.0000]
+    },
+    "15": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 16,
+      "pos": [-0.0500, -0.1225, 0.0000]
+    },
+    "16": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 17,
+      "pos": [0.0000, -0.1225, 0.0000]
+    },
+    "17": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 18,
+      "pos": [0.0500, -0.1225, 0.0000]
+    },
+    "18": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 19,
+      "pos": [0.1000, -0.1225, 0.0000]
+    },
+    "19": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 20,
+      "pos": [0.1500, -0.1225, 0.0000]
+    },
+    "20": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 21,
+      "pos": [0.2000, -0.1225, 0.0000]
+    },
+    "21": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 22,
+      "pos": [0.2500, -0.1225, 0.0000]
+    },
+    "22": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 23,
+      "pos": [-0.2500, -0.1575, 0.0000]
+    },
+    "23": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 24,
+      "pos": [-0.2000, -0.1575, 0.0000]
+    },
+    "24": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 25,
+      "pos": [-0.1500, -0.1575, 0.0000]
+    },
+    "25": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 26,
+      "pos": [-0.1000, -0.1575, 0.0000]
+    },
+    "26": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 27,
+      "pos": [-0.0500, -0.1575, 0.0000]
+    },
+    "27": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 28,
+      "pos": [0.0000, -0.1575, 0.0000]
+    },
+    "28": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 29,
+      "pos": [0.0500, -0.1575, 0.0000]
+    },
+    "29": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 30,
+      "pos": [0.1000, -0.1575, 0.0000]
+    },
+    "30": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 31,
+      "pos": [0.1500, -0.1575, 0.0000]
+    },
+    "31": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 32,
+      "pos": [0.2000, -0.1575, 0.0000]
+    },
+    "32": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 33,
+      "pos": [0.2500, -0.1575, 0.0000]
+    },
+    "33": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 34,
+      "pos": [-0.2500, -0.1925, 0.0000]
+    },
+    "34": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 35,
+      "pos": [-0.2000, -0.1925, 0.0000]
+    },
+    "35": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 36,
+      "pos": [-0.1500, -0.1925, 0.0000]
+    },
+    "36": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 37,
+      "pos": [-0.1000, -0.1925, 0.0000]
+    },
+    "37": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 38,
+      "pos": [-0.0500, -0.1925, 0.0000]
+    },
+    "38": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 39,
+      "pos": [0.0000, -0.1925, 0.0000]
+    },
+    "39": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 40,
+      "pos": [0.0500, -0.1925, 0.0000]
+    },
+    "40": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 41,
+      "pos": [0.1000, -0.1925, 0.0000]
+    },
+    "41": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 42,
+      "pos": [0.1500, -0.1925, 0.0000]
+    },
+    "42": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 43,
+      "pos": [0.2000, -0.1925, 0.0000]
+    },
+    "43": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 44,
+      "pos": [0.2500, -0.1925, 0.0000]
+    },
+    "44": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 45,
+      "pos": [-0.2500, -0.2275, 0.0000]
+    },
+    "45": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 46,
+      "pos": [-0.2000, -0.2275, 0.0000]
+    },
+    "46": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 47,
+      "pos": [-0.1500, -0.2275, 0.0000]
+    },
+    "47": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 48,
+      "pos": [-0.1000, -0.2275, 0.0000]
+    },
+    "48": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 49,
+      "pos": [-0.0500, -0.2275, 0.0000]
+    },
+    "49": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 50,
+      "pos": [0.0000, -0.2275, 0.0000]
+    },
+    "50": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 51,
+      "pos": [0.0500, -0.2275, 0.0000]
+    },
+    "51": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 52,
+      "pos": [0.1000, -0.2275, 0.0000]
+    },
+    "52": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 53,
+      "pos": [0.1500, -0.2275, 0.0000]
+    },
+    "53": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 54,
+      "pos": [0.2000, -0.2275, 0.0000]
+    },
+    "54": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 55,
+      "pos": [0.2500, -0.2275, 0.0000]
+    },
+    "55": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 56,
+      "pos": [-0.2500, -0.2625, 0.0000]
+    },
+    "56": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 57,
+      "pos": [-0.2000, -0.2625, 0.0000]
+    },
+    "57": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 58,
+      "pos": [-0.1500, -0.2625, 0.0000]
+    },
+    "58": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 59,
+      "pos": [-0.1000, -0.2625, 0.0000]
+    },
+    "59": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 60,
+      "pos": [-0.0500, -0.2625, 0.0000]
+    },
+    "60": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 61,
+      "pos": [0.0000, -0.2625, 0.0000]
+    },
+    "61": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 62,
+      "pos": [0.0500, -0.2625, 0.0000]
+    },
+    "62": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 63,
+      "pos": [0.1000, -0.2625, 0.0000]
+    },
+    "63": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 64,
+      "pos": [0.1500, -0.2625, 0.0000]
+    },
+    "64": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 65,
+      "pos": [0.2000, -0.2625, 0.0000]
+    },
+    "65": {
+      "type": "physical",
+	  "assignment": "channel",
+      "packetid": 66,
+      "pos": [0.2500, -0.2625, 0.0000]
+    },
+    "66": {
+      "type": "virtual",
+	  "assignment": "sum",
+      "packetid": 67,
+      "pos": [0.0000, 0.0000, 0.0000]
+    }
+  }
+}
